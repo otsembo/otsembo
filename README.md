@@ -8,6 +8,10 @@
   <img src="https://socialmediatech.net/wp-content/uploads/2020/12/android-n.png"/>
   
   </div>
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otsembo)](https://github.com/anuraghazra/github-readme-stats)
+  
+ 
 
 <!---
 otsembo/otsembo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
