@@ -14,6 +14,14 @@
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
  -->
   
+  <div align="center">
+  <br>
+  <br>
+  <h3>CHECK OUT WHAT I HAVE BEEN DOING: 🤪🤖🤪🤖🤪</h3>
+  <br>
+  <br>
+  </div>
+  
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=otsembo&show_icons=true&theme=radical" />
 </a>
