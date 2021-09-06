@@ -1,6 +1,12 @@
 
   <div align="center">  
-<h3>Howdie, Folks! 👋🤓<br><br>I am Ian Okumu<br>I'm a Android Developer, Web Application Developer <br>and<br> Statistics Enthusiast.</h3>
+<h3>Howdie, Folks! 👋🤓<br><br>Welcome to my page, I am Ian Okumu<br>Seasoned Android Developer, ocassioned Web Application Developer <br>and<br>Statistics Enthusiast.</h3>
+  </div>
+  
+  <div>
+ 
+  <img src="https://socialmediatech.net/wp-content/uploads/2020/12/android-n.png"/>
+  
   </div>
 
 <!---
