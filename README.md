@@ -1,10 +1,7 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
 
-- 👋 Hi, I’m @otsembo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+  <div align="center">  
+<h3>Howdie, Folks! 👋🤓<br>I am Ian Okumu<br>I'm a Android Developer, Web Application Developer <br>and<br> Statistics Enthusiast.</h3>
+  </div>
 
 <!---
 otsembo/otsembo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
