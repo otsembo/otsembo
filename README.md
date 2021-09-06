@@ -1,6 +1,6 @@
 
   <div align="center">  
-<h3>Howdie, Folks! 👋🤓<br>I am Ian Okumu<br>I'm a Android Developer, Web Application Developer <br>and<br> Statistics Enthusiast.</h3>
+<h3>Howdie, Folks! 👋🤓<br><br>I am Ian Okumu<br>I'm a Android Developer, Web Application Developer <br>and<br> Statistics Enthusiast.</h3>
   </div>
 
 <!---
