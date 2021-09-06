@@ -3,9 +3,9 @@
 <h3>Howdie, Folks! 👋🤓<br><br>Welcome to my page, I am Ian Okumu<br>Seasoned Android Developer, ocassioned Web Application Developer <br>and<br>Statistics Enthusiast.</h3>
   </div>
   
-  <div>
+  <div align="center">
  
-  <img src="https://socialmediatech.net/wp-content/uploads/2020/12/android-n.png"/>
+  <img src="https://socialmediatech.net/wp-content/uploads/2020/12/android-n.png" height="350"/>
   
   </div>
   
