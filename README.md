@@ -3,12 +3,6 @@
 <h3>Howdie, Folks! 👋🤓<br><br>Welcome to my page, I am Ian Okumu<br>Seasoned Android Developer, ocassioned Web Application Developer <br>and<br>Statistics Enthusiast.</h3>
   </div>
   
-  <div align="center">
- 
-  <img src="https://socialmediatech.net/wp-content/uploads/2020/12/android-n.png" height="350"/>
-  
-  </div>
-  
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
