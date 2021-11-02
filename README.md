@@ -1,9 +1,9 @@
 
 * Howdie, Folks! 👋🤓
 * 🤪 Am Ian Okumu, Software Engineer
-* I am simply in love with Mobile (Android Apps, Mobile Web and AI on the Edge)
-* Check out my portfolio [here](https://otsembo.github.io/OtsemboPortfolio/)
-* Check out these stats below:
+* 📱 I am simply in love with Mobile (Android Apps, Mobile Web and AI on the Edge)
+* 💻 Check out my portfolio [here](https://otsembo.github.io/OtsemboPortfolio/)
+* 📈 Check out these stats below:
   
 <a href="https://github.com/anuraghazra/convoychat" style="margin-right:.5%; margin-top=.5%;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otsembo" />
