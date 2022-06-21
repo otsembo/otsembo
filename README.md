@@ -4,9 +4,12 @@
 * 📱 I have much ❤️ for mobile
 * 📈 This is what I have been doing:
   
-<a href="https://otsembo.github.io/OtsemboPortfolio/" style="margin-right:.5%; margin-top=.5%;">
+<!-- <a href="https://otsembo.github.io/OtsemboPortfolio/" style="margin-right:.5%; margin-top=.5%;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otsembo&layout=compact" />
-</a>
+</a> -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <br />
 <br />
