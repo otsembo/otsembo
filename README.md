@@ -65,9 +65,6 @@ HTML                     6 repos             ██░░░░░░░░░�
 <br />
 <br />
 <br />
-<a href="https://otsembo.com" style="margin-right:.5%; margin-top=.5%;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=otsembo&&show_icons=true&theme=radical" />
-</a>
 <br />
   
   </div>
