@@ -60,7 +60,7 @@ C++                      2 repos             ░░░░░░░░░░░�
  Last Updated on 04/07/2023 18:46:30 UTC
 <!--END_SECTION:waka-->
 
-## Recent Contributions
+## Recent Contributions :alarm_clock:
 
 - [Kotlin Generics](https://otsembo.hashnode.dev/getting-more-concise-with-kotlin-generics) - In this article, I speak about how one can utilize the power of Generic programming to make their Kotlin code more concise, readable and reusable. Unleash the power of Kotlin Generics by understanding its in's and out's.
 - [Reactive Programming with Kotlin](https://otsembo.hashnode.dev/reactive-programming-with-kotlin) - The world of reactive programming unleashed a whole new dimension on how we can create more performant applications (both **frontend and backend**). This article dives deep into the world of reactive programming with Kotlin and how we can have it power our applications.
@@ -72,7 +72,16 @@ C++                      2 repos             ░░░░░░░░░░░�
 - [Accessibility on Android (GDSC IO Extended Nairobi 2022)](https://sessionize.com/ian-okumu/) - In my IOExtended Students Edition Nairobi 2022, I speak of how we can build for the next billion users on Android.
 - [Accessibility on Android (**KotlinKenya User Group/Android254**)](https://twitter.com/254androiddevs) - An extended version of my GDSC talk where I speak more on the importance of accessibility when building applications.
 
-## Other Contributions
+## Libraries & Tools :hammer:
+I am big on developer tools and improving Software Engineers' lives. I write a lot of internal tools for where I work, however, I also have several open-source tools that you can utilize in your projects:
+
+- [mathified-kt](https://github.com/otsembo/mathified-kt) - A Kotlin Multiplatform library for Math enthusiasts. Take the opportunity and try out all those formulas your Math teacher/professor was blabbing about :smiley:.
+- [ruby-daraja](https://github.com/otsembo/ruby-daraja) - A Ruby wrapper for the [Safaricom Daraja API](https://developer.safaricom.co.ke). It provides a simple interface to the API endpoints and allows for smooth setup in `Ruby on Rails` applications or any other Ruby application.
+- [kotlin-multiplatform-samples](https://github.com/rutubishi/kotlin-multiplatform-samples) - Explore different samples for various Kotlin Multiplatform projects. Identify templates and explore the amazing world of Kotlin and its various targets. Beware, we love food :fries:, :smiley:.
+
+**PS: I am accepting contributions for all these projects.**
+
+## Other Contributions :bookmark:
 
 When I am not writing **kotlin**, I write the language of love; **#ruby** and the beloved framework; `**Ruby on Rails**`. Checkout the following:
 
