@@ -61,7 +61,7 @@ C++                      2 repos             ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ## Recent Contributions :alarm_clock:
-
+- [Implement LinkedList using Kotlin/Native](https://otsembo.hashnode.dev/implement-a-linkedlist-using-kotlinnative) - This is a sequel to this [article](https://otsembo.hashnode.dev/kotlin-native-an-introduction) about Kotlin/Native. I discuss the implementation of a LinkedList using Kotlin/Native target.
 - [Kotlin Generics](https://otsembo.hashnode.dev/getting-more-concise-with-kotlin-generics) - In this article, I speak about how one can utilize the power of Generic programming to make their Kotlin code more concise, readable and reusable. Unleash the power of Kotlin Generics by understanding its in's and out's.
 - [Reactive Programming with Kotlin](https://otsembo.hashnode.dev/reactive-programming-with-kotlin) - The world of reactive programming unleashed a whole new dimension on how we can create more performant applications (both **frontend and backend**). This article dives deep into the world of reactive programming with Kotlin and how we can have it power our applications.
 - [Kotlin / Native: An Introduction](https://otsembo.hashnode.dev/kotlin-native-an-introduction) - Native binaries can seem scary, I mean who wants to be writing some C / C++ jargon. Well, you do not have to; you can get an introduction to Kotlin/Native. This article describes the Kotlin/Native target and how we can make performant apps that do not require virtual machines.
