@@ -60,6 +60,7 @@ C++                      2 repos             ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ## Recent Contributions :alarm_clock:
+- [Compose Canvas API](https://otsembo.hashnode.dev/compose-canvas-api) - At times, your favorite UI framework; Jetpack Compose, does not have a specific UI element that you need. Needless to worry, you can create any custom shape of your liking using Jetpack Compose's Canvas API. This article describes how you can recreate a few of the popular app logos using just the Compose Canvas API.
 - [Implement LinkedList using Kotlin/Native](https://otsembo.hashnode.dev/implement-a-linkedlist-using-kotlinnative) - This is a sequel to this [article](https://otsembo.hashnode.dev/kotlin-native-an-introduction) about Kotlin/Native. I discuss the implementation of a LinkedList using Kotlin/Native target.
 - [Kotlin Generics](https://otsembo.hashnode.dev/getting-more-concise-with-kotlin-generics) - In this article, I speak about how one can utilize the power of Generic programming to make their Kotlin code more concise, readable and reusable. Unleash the power of Kotlin Generics by understanding its in's and out's.
 - [Reactive Programming with Kotlin](https://otsembo.hashnode.dev/reactive-programming-with-kotlin) - The world of reactive programming unleashed a whole new dimension on how we can create more performant applications (both **frontend and backend**). This article dives deep into the world of reactive programming with Kotlin and how we can have it power our applications.
@@ -79,6 +80,12 @@ I am big on developer tools and improving Software Engineers' lives. I write a l
 - [kotlin-multiplatform-samples](https://github.com/rutubishi/kotlin-multiplatform-samples) - Explore different samples for various Kotlin Multiplatform projects. Identify templates and explore the amazing world of Kotlin and its various targets. Beware, we love food :fries:, :smiley:.
 
 **PS: I am accepting contributions for all these projects.**
+
+## Courses 🖥️
+I like creating courses for Android and Kotlin developers. I have featured courses at industry leading platform, [Kodeco](https://kodeco.com). I also create free course that can be accessed on my YouTube channel. Get in and gain some wonderful Kotlin knowledge.
+
+- [Jetpack Compose: Getting Started](https://kodeco.com) -  An introductory course on the fundamentals of building UIs using Jetpack Compose. This course covers everything from the basics of UI elements to advanced techniques of styling Jetpack Compose UI elements.
+- [kt whisperer](https://www.youtube.com) - My YouTube channel that has a wide variety of tutorials in Kotlin and Android. This channel will provide you with relevant knowledge in a quick and easy manner.
 
 ## Other Contributions :bookmark:
 
