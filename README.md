@@ -1,6 +1,6 @@
 
 * Howdie, Folks! 👋🤓
-* 🤪 Am Ian Okumu, Software Engineer
+* 🤪 I am Ian Okumu, Software Engineer
 * 📱 I have much ❤️ for mobile
 * 📈 This is what I have been doing:
   
