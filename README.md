@@ -88,7 +88,7 @@ I am big on developer tools and improving Software Engineers' lives. I write a l
 **PS: I am accepting contributions for all these projects.**
 
 ## Courses 🖥️
-I like creating courses for Android and Kotlin developers. I have featured courses at industry leading platform, [Kodeco](https://kodeco.com). I also create free course that can be accessed on my YouTube channel. Get in and gain some wonderful Kotlin knowledge.
+I like creating courses for Android and Kotlin developers. I have featured courses at industry leading platforms, [Kodeco](https://kodeco.com) and [DroidconAcademy](https://academy.droidcon.com/home). I also create free course that can be accessed on my YouTube channel. Get in and gain some wonderful Kotlin knowledge.
 
 - [Jetpack Compose: Getting Started](https://www.kodeco.com/38708142-jetpack-compose-getting-started) -  An introductory course on the fundamentals of building UIs using Jetpack Compose. This course covers everything from the basics of UI elements to advanced techniques of styling Jetpack Compose UI elements.
 - [Lottie Animations with Jetpack Compose](https://academy.droidcon.com/course/lottie-animations-in-android-jetpack-compose) - Lottie is a great library to add animated files to your app. Explore how to add visually appealing and engaging animations to an Android app by using Lottie animations and Jetpack Compose without the need for complex coding or heavy graphic assets. 
