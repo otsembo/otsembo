@@ -62,7 +62,7 @@ EJS                      1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ## Recent Contributions :alarm_clock:
-- [Sessionize Speaker Sessions](https://sessionize.com/ian-okumu/) - This is my sessionize speaker profile. You can have a glimpse of the most recent talks I have featured.
+- [Speaker Sessions](https://sessionize.com/ian-okumu/) - This is my sessionize speaker profile. You can have a glimpse of the most recent talks I have featured.
 - [Jetpack DataStore: A Multiplatform Solution](https://otsembo.hashnode.dev/jetpack-datastore-a-multiplatform-solution) - This article describes how to implement persistent storage using Android Jetpack Datastore library. The article speaks of how to use the library wuth multiplatform support.
 - [K2 Compiler with Jetpack Compose](https://otsembo.hashnode.dev/k2-compiler-chronicles-jetpack-compose) - In this article, I speak on how to get started with the new K2 Compiler slated for Kotlin 2.0. I discuss results from a benchmark test comparing the build speeds for the original compiler against the new one. I also discuss how to get started with the K2 Compiler using Compose Multiplatform.
 - [Compose Animations (IO Extended Nairobi 2023)](https://sessionize.com/ian-okumu/) - In this talk, I speak on how to get started with creating animations using Compose Multiplatform. The session was done in the Android track at the IO Extended event.
