@@ -29,15 +29,13 @@
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-JavaScript               1 hr 2 mins         ██████████████████████░░░   88.86 % 
-Kotlin                   7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 2 mins         ██████████████████████░░░   88.86 % 
-Android Studio           7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 10 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Kotlin** 
@@ -53,7 +51,7 @@ Python                   10 repos            █░░░░░░░░░░�
 
 
 
- Last Updated on 25/12/2025 18:58:05 UTC
+ Last Updated on 26/12/2025 18:58:16 UTC
 <!--END_SECTION:waka-->
 
 ## Recent Contributions :alarm_clock:
