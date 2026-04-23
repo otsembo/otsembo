@@ -11,15 +11,15 @@
 [//]: # (</a>)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-43.60%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                14346 commits       ████████░░░░░░░░░░░░░░░░░   32.12 % 
-🌆 Daytime                24788 commits       ██████████████░░░░░░░░░░░   55.51 % 
-🌃 Evening                3798 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-🌙 Night                  1725 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+🌞 Morning                19581 commits       ████████░░░░░░░░░░░░░░░░░   32.70 % 
+🌆 Daytime                32726 commits       ██████████████░░░░░░░░░░░   54.65 % 
+🌃 Evening                5481 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+🌙 Night                  2097 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
 ```
 
 
@@ -29,30 +29,34 @@
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Kotlin                   3 hrs 6 mins        ████████████████████████░   96.15 % 
-TOML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+JavaScript               3 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   40.28 % 
+Kotlin                   3 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   34.38 % 
+Markdown                 1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+HTML                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 
 🔥 Editors: 
-Android Studio           3 hrs 14 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 53 mins       █████████████████░░░░░░░░   66.15 % 
+Android Studio           3 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   33.85 % 
 
 💻 Operating System: 
-Linux                    3 hrs 14 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
 
 ```text
-Kotlin                   56 repos            ████████░░░░░░░░░░░░░░░░░   30.11 % 
-JavaScript               54 repos            ███████░░░░░░░░░░░░░░░░░░   29.03 % 
-TypeScript               18 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-HTML                     13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-Python                   10 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+Kotlin                   55 repos            ███████░░░░░░░░░░░░░░░░░░   29.41 % 
+JavaScript               53 repos            ███████░░░░░░░░░░░░░░░░░░   28.34 % 
+TypeScript               18 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+HTML                     14 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+Python                   10 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
 ```
 
 
 
 
- Last Updated on 30/12/2025 19:00:36 UTC
+ Last Updated on 23/04/2026 10:36:06 UTC
 <!--END_SECTION:waka-->
 
 ## Recent Contributions :alarm_clock:
