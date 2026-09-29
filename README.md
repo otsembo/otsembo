@@ -31,26 +31,26 @@
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Kotlin                   3 hrs 2 mins        ███████████████████░░░░░░   76.51 % 
-JSON                     40 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-Java                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Kotlin                   4 hrs 4 mins        ████████████████████░░░░░   79.02 % 
+JSON                     45 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+Java                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 
 🔥 Editors: 
-Android Studio           3 hrs 50 mins       ████████████████████████░   96.72 % 
-VS Code                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+Android Studio           5 hrs 1 min         ████████████████████████░   97.47 % 
+VS Code                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 
 💻 Operating System: 
-Linux                    3 hrs 58 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 mins (1.64%)
+⏱ AI Coding Time: 3 mins (1.27%)
 
-✍️ 0 lines written by AI, 513 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 575 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -78,7 +78,7 @@ Python                   13 repos            ██░░░░░░░░░�
 
 
 
- Last Updated on 29/09/2026 21:40:11 UTC
+ Last Updated on 29/09/2026 22:14:46 UTC
 <!--END_SECTION:waka-->
 
 ## Recent Contributions :alarm_clock:
