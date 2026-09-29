@@ -11,15 +11,15 @@
 [//]: # (</a>)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-47.99%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-60.41%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                20955 commits       ████████░░░░░░░░░░░░░░░░░   32.62 % 
-🌆 Daytime                35171 commits       ██████████████░░░░░░░░░░░   54.76 % 
-🌃 Evening                5868 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-🌙 Night                  2238 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+🌞 Morning                23531 commits       ████████░░░░░░░░░░░░░░░░░   32.13 % 
+🌆 Daytime                41650 commits       ██████████████░░░░░░░░░░░   56.88 % 
+🌃 Evening                5577 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+🌙 Night                  2468 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
 ```
 
 
@@ -29,34 +29,54 @@
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Kotlin                   14 hrs 14 mins      █████████████████░░░░░░░░   69.12 % 
-JavaScript               4 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   21.66 % 
-Markdown                 1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
-Properties               16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-Java Properties          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Kotlin                   3 hrs 2 mins        ███████████████████░░░░░░   76.51 % 
+JSON                     40 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+Java                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 
 🔥 Editors: 
-Android Studio           15 hrs 1 min        ██████████████████░░░░░░░   72.97 % 
-VS Code                  5 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   27.03 % 
+Android Studio           3 hrs 50 mins       ████████████████████████░   96.72 % 
+VS Code                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
 
 💻 Operating System: 
-Linux                    20 hrs 35 mins      █████████████████████████   100.00 % 
+Linux                    3 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in Kotlin** 
+🤖 **AI Coding This Week** 
 
 ```text
-Kotlin                   54 repos            ███████░░░░░░░░░░░░░░░░░░   29.03 % 
-JavaScript               53 repos            ███████░░░░░░░░░░░░░░░░░░   28.49 % 
-TypeScript               18 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-HTML                     14 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
-Python                   10 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+⏱ AI Coding Time: 3 mins (1.64%)
+
+✍️ 0 lines written by AI, 513 lines written by hand (0.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 3 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📄 Detailed Prompter — average 997 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               54 repos            ███████░░░░░░░░░░░░░░░░░░   28.42 % 
+Kotlin                   54 repos            ███████░░░░░░░░░░░░░░░░░░   28.42 % 
+TypeScript               17 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+HTML                     13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+CSS                      7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
 ```
 
 
 
 
- Last Updated on 22/05/2026 19:33:51 UTC
+ Last Updated on 29/09/2026 17:26:15 UTC
 <!--END_SECTION:waka-->
 
 ## Recent Contributions :alarm_clock:
