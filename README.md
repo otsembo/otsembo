@@ -31,38 +31,23 @@
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Kotlin                   4 hrs 4 mins        ████████████████████░░░░░   79.02 % 
-JSON                     45 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-Java                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+Kotlin                   5 hrs 43 mins       ███████████████████░░░░░░   76.63 % 
+JSON                     1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
+Java                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+XML                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 
 🔥 Editors: 
-Android Studio           5 hrs 1 min         ████████████████████████░   97.47 % 
-VS Code                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+Android Studio           7 hrs 27 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    5 hrs 8 mins        █████████████████████████   100.00 % 
+Linux                    7 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 mins (1.27%)
-
-✍️ 0 lines written by AI, 575 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 3 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 997 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -78,7 +63,7 @@ Python                   13 repos            ██░░░░░░░░░�
 
 
 
- Last Updated on 30/09/2026 21:40:37 UTC
+ Last Updated on 30/09/2026 22:09:59 UTC
 <!--END_SECTION:waka-->
 
 ## Recent Contributions :alarm_clock:
