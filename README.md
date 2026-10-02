@@ -13,7 +13,42 @@
 <!--START_SECTION:waka-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20hrs%2025%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-62.74%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-60.30%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                23495 commits       ████████░░░░░░░░░░░░░░░░░   31.97 % 
+🌆 Daytime                42156 commits       ██████████████░░░░░░░░░░░   57.36 % 
+🌃 Evening                5426 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+🌙 Night                  2423 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Nairobi
+
+💬 Programming Languages: 
+Kotlin                   4 hrs 38 mins       ███████████████░░░░░░░░░░   58.74 % 
+JSON                     2 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   28.72 % 
+Markdown                 34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+Java                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+XML                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+
+🔥 Editors: 
+Android Studio           7 hrs 54 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    7 hrs 54 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
 
 **I Mostly Code in JavaScript** 
 
@@ -28,7 +63,7 @@ Python                   13 repos            ██░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2026 22:17:29 UTC
+ Last Updated on 02/10/2026 22:42:34 UTC
 <!--END_SECTION:waka-->
 
 ## Recent Contributions :alarm_clock:
