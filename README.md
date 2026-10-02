@@ -15,41 +15,6 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-62.74%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                24254 commits       ████████░░░░░░░░░░░░░░░░░   32.18 % 
-🌆 Daytime                42886 commits       ██████████████░░░░░░░░░░░   56.91 % 
-🌃 Evening                5705 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
-🌙 Night                  2517 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Nairobi
-
-💬 Programming Languages: 
-Kotlin                   5 hrs 56 mins       ████████████████░░░░░░░░░   64.42 % 
-JSON                     2 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   24.63 % 
-Markdown                 34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
-Java                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
-XML                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-
-🔥 Editors: 
-Android Studio           9 hrs 13 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    9 hrs 13 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -63,7 +28,7 @@ Python                   13 repos            ██░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2026 21:49:12 UTC
+ Last Updated on 02/10/2026 22:17:29 UTC
 <!--END_SECTION:waka-->
 
 ## Recent Contributions :alarm_clock:
