@@ -50,14 +50,20 @@ Linux                    7 hrs 54 mins       ███████████�
 No AI Coding Activity Tracked This Week
 ```
 
-```text
+**I Mostly Code in JavaScript** 
 
+```text
+JavaScript               6 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+TypeScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Kotlin                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 ```
 
 
 
 
- Last Updated on 03/10/2026 22:40:11 UTC
+ Last Updated on 03/10/2026 22:40:37 UTC
 <!--END_SECTION:waka-->
 
 ## Recent Contributions :alarm_clock:
