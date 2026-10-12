@@ -31,17 +31,17 @@
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Kotlin                   3 hrs 58 mins       █████████████████░░░░░░░░   67.50 % 
-JSON                     1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
-Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
-Java                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Kotlin                   5 hrs 26 mins       ██████████████████░░░░░░░   70.94 % 
+JSON                     1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+XML                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Java                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 
 🔥 Editors: 
-Android Studio           5 hrs 54 mins       █████████████████████████   100.00 % 
+Android Studio           7 hrs 40 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    5 hrs 54 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -63,7 +63,7 @@ Python                   13 repos            ██░░░░░░░░░�
 
 
 
- Last Updated on 12/10/2026 21:40:53 UTC
+ Last Updated on 12/10/2026 22:11:34 UTC
 <!--END_SECTION:waka-->
 
 ## Recent Contributions :alarm_clock:
