@@ -13,15 +13,15 @@
 <!--START_SECTION:waka-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20hrs%2025%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26.83%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌞 Morning                13 commits          ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
+🌆 Daytime                28 commits          ████████████░░░░░░░░░░░░░   49.12 % 
+🌃 Evening                13 commits          ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
+🌙 Night                  3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 ```
 
 
@@ -50,14 +50,20 @@ Linux                    7 hrs 40 mins       ███████████�
 No AI Coding Activity Tracked This Week
 ```
 
-```text
+**I Mostly Code in JavaScript** 
 
+```text
+JavaScript               32 repos            █████████░░░░░░░░░░░░░░░░   34.41 % 
+Kotlin                   25 repos            ███████░░░░░░░░░░░░░░░░░░   26.88 % 
+TypeScript               7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 ```
 
 
 
 
- Last Updated on 13/10/2026 01:36:46 UTC
+ Last Updated on 13/10/2026 01:37:52 UTC
 <!--END_SECTION:waka-->
 
 ## Recent Contributions :alarm_clock:
