@@ -11,7 +11,7 @@
 [//]: # (</a>)
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20hrs%2042%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%204%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-63.53%20million%20lines%20of%20code-blue?style=flat)
 
@@ -31,39 +31,40 @@
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Kotlin                   2 hrs 55 mins       █████████████████████████   99.58 % 
-Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Kotlin                   4 hrs 44 mins       █████████████████████████   99.53 % 
+Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 Shell Script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Android Studio           2 hrs 56 mins       █████████████████████████   100.00 % 
+Android Studio           4 hrs 25 mins       ███████████████████████░░   92.80 % 
+Claude Code              20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
 
 💻 Operating System: 
-Linux                    2 hrs 56 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 mins (9.2%)
+⏱ AI Coding Time: 38 mins (13.6%)
 
-✍️ 0 lines written by AI, 90 lines written by hand (0.0% AI-written)
+✍️ 1,080 lines written by AI, 156 lines written by hand (87.38% AI-written)
 
-🔤 90,084 Input Tokens, 5,415 Output Tokens
+🔤 205,994 Input Tokens, 57,026 Output Tokens
 
-💵 $0.47 Estimated AI Cost This Week
+💵 $2.75 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 1 AI Prompts
+🧠 3 AI Sessions, 3 AI Prompts
 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     1,084 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 3,265 characters per prompt
-🎯 One-Shot Prompter — average 0 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🤖 AI-Driven — 87.38% of written lines came from AI
+📚 Verbose Prompter — average 2,190 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 13.14% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -79,7 +80,7 @@ HTML                     13 repos            ██░░░░░░░░░�
 
 
 
- Last Updated on 27/10/2026 21:48:12 UTC
+ Last Updated on 27/10/2026 22:16:25 UTC
 <!--END_SECTION:waka-->
 
 ## Recent Contributions :alarm_clock:
