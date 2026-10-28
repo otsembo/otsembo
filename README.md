@@ -31,26 +31,26 @@
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Kotlin                   4 hrs 44 mins       █████████████████████████   99.53 % 
-Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-Shell Script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Kotlin                   2 hrs 18 mins       █████████████████████████   99.53 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Shell Script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Android Studio           4 hrs 25 mins       ███████████████████████░░   92.80 % 
-Claude Code              20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+Android Studio           1 hr 58 mins        █████████████████████░░░░   85.24 % 
+Claude Code              20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
 
 💻 Operating System: 
-Linux                    4 hrs 46 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 38 mins (13.6%)
+⏱ AI Coding Time: 38 mins (27.88%)
 
-✍️ 1,080 lines written by AI, 156 lines written by hand (87.38% AI-written)
+✍️ 1,080 lines written by AI, 77 lines written by hand (93.34% AI-written)
 
 🔤 205,994 Input Tokens, 57,026 Output Tokens
 
@@ -61,10 +61,10 @@ Linux                    4 hrs 46 mins       ███████████�
 Opus                     1,084 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 87.38% of written lines came from AI
+🤖 AI-Driven — 93.34% of written lines came from AI
 📚 Verbose Prompter — average 2,190 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 13.14% of changed lines were hand-edited
+🚀 High AI Trust — 7.19% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -80,7 +80,7 @@ HTML                     13 repos            ██░░░░░░░░░�
 
 
 
- Last Updated on 28/10/2026 21:31:43 UTC
+ Last Updated on 28/10/2026 21:59:11 UTC
 <!--END_SECTION:waka-->
 
 ## Recent Contributions :alarm_clock:
