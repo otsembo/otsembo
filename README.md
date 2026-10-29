@@ -11,61 +11,9 @@
 [//]: # (</a>)
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%2014%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-64.21%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                24569 commits       ████████░░░░░░░░░░░░░░░░░   32.28 % 
-🌆 Daytime                43394 commits       ██████████████░░░░░░░░░░░   57.01 % 
-🌃 Evening                5615 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
-🌙 Night                  2545 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Nairobi
-
-💬 Programming Languages: 
-Kotlin                   2 hrs 18 mins       █████████████████████████   99.53 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-Shell Script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔥 Editors: 
-Android Studio           1 hr 58 mins        █████████████████████░░░░   85.24 % 
-Claude Code              20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-
-💻 Operating System: 
-Linux                    2 hrs 19 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 38 mins (27.88%)
-
-✍️ 1,080 lines written by AI, 77 lines written by hand (93.34% AI-written)
-
-🔤 205,994 Input Tokens, 57,026 Output Tokens
-
-💵 $2.75 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 3 AI Prompts
-
-Opus                     1,084 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 93.34% of written lines came from AI
-📚 Verbose Prompter — average 2,190 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 7.19% of changed lines were hand-edited
-```
 
 **I Mostly Code in JavaScript** 
 
@@ -80,7 +28,7 @@ HTML                     13 repos            ██░░░░░░░░░�
 
 
 
- Last Updated on 29/10/2026 21:32:47 UTC
+ Last Updated on 29/10/2026 21:58:11 UTC
 <!--END_SECTION:waka-->
 
 ## Recent Contributions :alarm_clock:
