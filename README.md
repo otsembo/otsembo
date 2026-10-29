@@ -15,6 +15,58 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-64.21%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                24569 commits       ████████░░░░░░░░░░░░░░░░░   32.28 % 
+🌆 Daytime                43394 commits       ██████████████░░░░░░░░░░░   57.01 % 
+🌃 Evening                5615 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+🌙 Night                  2545 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Nairobi
+
+💬 Programming Languages: 
+Kotlin                   3 hrs               ████████████████████████░   97.68 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Shell Script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔥 Editors: 
+Android Studio           2 hrs 36 mins       █████████████████████░░░░   84.50 % 
+Claude Code              28 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+
+💻 Operating System: 
+Linux                    3 hrs 4 mins        █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 48 mins (26.21%)
+
+✍️ 1,542 lines written by AI, 79 lines written by hand (95.13% AI-written)
+
+🔤 297,468 Input Tokens, 86,483 Output Tokens
+
+💵 $4.26 Estimated AI Cost This Week
+
+🧠 4 AI Sessions, 4 AI Prompts
+
+Opus                     1,618 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 95.13% of written lines came from AI
+📚 Verbose Prompter — average 1,718 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 5.27% of changed lines were hand-edited
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -28,7 +80,7 @@ HTML                     13 repos            ██░░░░░░░░░�
 
 
 
- Last Updated on 29/10/2026 21:58:11 UTC
+ Last Updated on 29/10/2026 22:27:26 UTC
 <!--END_SECTION:waka-->
 
 ## Recent Contributions :alarm_clock:
