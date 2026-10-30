@@ -11,7 +11,7 @@
 [//]: # (</a>)
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%2014%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-34%20hrs%205%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-64.56%20million%20lines%20of%20code-blue?style=flat)
 
@@ -31,40 +31,40 @@
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Kotlin                   3 hrs               ████████████████████████░   97.68 % 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-Shell Script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Kotlin                   5 hrs 11 mins       ███████████████████████░░   90.83 % 
+Java                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+XML                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 
 🔥 Editors: 
-Android Studio           2 hrs 36 mins       █████████████████████░░░░   84.50 % 
-Claude Code              28 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+Android Studio           4 hrs 30 mins       ████████████████████░░░░░   78.83 % 
+Claude Code              1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
 
 💻 Operating System: 
-Linux                    3 hrs 4 mins        █████████████████████████   100.00 % 
+Linux                    5 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 48 mins (26.21%)
+⏱ AI Coding Time: 1 hr 23 mins (24.38%)
 
-✍️ 1,542 lines written by AI, 79 lines written by hand (95.13% AI-written)
+✍️ 2,637 lines written by AI, 621 lines written by hand (80.94% AI-written)
 
-🔤 297,468 Input Tokens, 86,483 Output Tokens
+🔤 509,170 Input Tokens, 176,871 Output Tokens
 
-💵 $4.26 Estimated AI Cost This Week
+💵 $10.10 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 4 AI Prompts
+🧠 3 AI Sessions, 9 AI Prompts
 
-Opus                     1,618 lines         █████████████████████████   100.00 % 
+Opus                     2,895 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.13% of written lines came from AI
-📚 Verbose Prompter — average 1,718 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 5.27% of changed lines were hand-edited
+🤖 AI-Driven — 80.94% of written lines came from AI
+📄 Detailed Prompter — average 684 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 19.47% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -80,7 +80,7 @@ HTML                     13 repos            ██░░░░░░░░░�
 
 
 
- Last Updated on 30/10/2026 21:36:14 UTC
+ Last Updated on 30/10/2026 22:02:56 UTC
 <!--END_SECTION:waka-->
 
 ## Recent Contributions :alarm_clock:
